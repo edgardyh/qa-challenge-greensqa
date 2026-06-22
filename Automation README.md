@@ -27,7 +27,7 @@ Valida el mensaje de validación cuando no se selecciona destino.
 Los escenarios consumen el archivo:
 
 ```text
-src/test/resources/passengers.csv
+src/test/resources/users.csv
 ```
 
 Generado por el proyecto Data Generator.
