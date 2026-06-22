@@ -24,7 +24,7 @@ java -jar target/data-generator.jar
 Archivo CSV:
 
 ```text
-output/passengers.csv
+output/users.csv
 ```
 
 Ejemplo:
